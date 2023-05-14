@@ -1,1 +1,2 @@
-*.prettierrc
+.prettierrc
+node_modules/
